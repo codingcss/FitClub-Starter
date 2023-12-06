@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+💙 Join the channel to see more videos like this. [LearnWithDaniel](https://www.youtube.com/@learnwithdanial417)
+
+![preview img](/fitclub.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
